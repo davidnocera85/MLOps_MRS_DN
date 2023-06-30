@@ -16,7 +16,9 @@
 Desarrollo en código Python (Visual Studio Code y Google Colab).
 Bibliotecas: FastAPI, uvicorn, pandas, numpy, graphviz, Matplotlib, Scipy, missingno, optuna, requests, Scikit-learn, Seaborn, Scipy, WordCloud. 
 Módulos: zipfile, datetime, calendar, re, ast, pydantic, typing, os, entre los mas relevantes.
+
 En el siguiente enlace se accede a la carpeta del entorno virtual para poder implementar el código:
+
 (https://drive.google.com/drive/folders/1FOMVg0mJJUXdo_mBdFtcDGklLA3bhpKa?usp=drive_link)
 
 
@@ -37,9 +39,10 @@ En el siguiente enlace se accede a la carpeta del entorno virtual para poder imp
 **`Instructivo para el uso del Sistema de Consultas`**:
 
 1. Acceder a la API mediante el siguiente enlace:
+
 (https://movie-reccommendation-system-dan.onrender.com/docs)
 
-2. Ejecutar las 7 consultas disponibles
+2. Ejecutar las 7 consultas disponibles:
 
 **/cantidad_filmaciones_mes/{mes}**: se ingresa un mes (en español) y devuelve la cantidad de películas que se estrenaron históricamente ese mes del año. Por ejemplo: Enero, etc.
 
