@@ -2,4 +2,3 @@ fastapi
 pandas
 scikit-learn 
 uvicorn
-zipfile
