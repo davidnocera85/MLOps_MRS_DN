@@ -1,13 +1,5 @@
 fastapi 
 pandas
-sklearn.neighbors 
-NearestNeighbors
-sklearn.compose 
-ColumnTransformer
-sklearn.preprocessing 
-OneHotEncoder
-StandardScaler
-sklearn.pipeline 
-Pipeline
+scikit-learn 
 uvicorn
 zipfile
