@@ -1,5 +1,4 @@
 fastapi 
-zipfile
 pandas
 sklearn.neighbors 
 NearestNeighbors
@@ -11,3 +10,4 @@ StandardScaler
 sklearn.pipeline 
 Pipeline
 uvicorn
+zipfile
